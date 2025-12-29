@@ -101,12 +101,11 @@ I aim to become a **Full Stack Developer with an AI focus**, building scalable w
 
 ---
 
-### 📊 GitHub Stats
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Piyush851&theme=holi&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Piyush851&theme=holi&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Piyush851&theme=holi&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=piyush851&show_icons=true&locale=en&layout=compact" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=piyush851&show_icons=true&locale=en" />
-</p>
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
